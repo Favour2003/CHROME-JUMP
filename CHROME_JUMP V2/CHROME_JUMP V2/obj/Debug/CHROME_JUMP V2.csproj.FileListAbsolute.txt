@@ -1,0 +1,22 @@
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\bin\Debug\CHROME_JUMP V2.exe.config
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\bin\Debug\CHROME_JUMP V2.exe
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\bin\Debug\CHROME_JUMP V2.pdb
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.csprojAssemblyReference.cache
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP_V2.Properties.Resources.resources
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.csproj.GenerateResource.cache
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.exe
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.pdb
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP_V2.InGameScreen.resources
+C:\Users\Studente\Desktop\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP_V2.MENU.resources
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\bin\Debug\CHROME_JUMP V2.exe.config
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\bin\Debug\CHROME_JUMP V2.exe
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\bin\Debug\CHROME_JUMP V2.pdb
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.csproj.AssemblyReference.cache
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP_V2.InGameScreen.resources
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP_V2.MENU.resources
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP_V2.Properties.Resources.resources
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.csproj.GenerateResource.cache
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.csproj.CoreCompileInputs.cache
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.exe
+C:\Users\frozm\OneDrive\Attachments\Desktop\T-rex Runner (ChromeJump)\CHROME_JUMP V2\CHROME_JUMP V2\obj\Debug\CHROME_JUMP V2.pdb
